@@ -15,29 +15,29 @@ module.exports = {
     },
   },
   plugins: [require("daisyui")],
-  daisyui: {
-    themes: [
-      {
-        mytheme: {
-          primary: "#7700ff",
+  // daisyui: {
+  //   themes: [
+  //     {
+  //       mytheme: {
+  //         primary: "#7700ff",
 
-          secondary: "#e76f00",
+  //         secondary: "#e76f00",
 
-          accent: "#7e9a00",
+  //         accent: "#7e9a00",
 
-          neutral: "#030713",
+  //         neutral: "#030713",
 
-          "base-100": "#fcfcfc",
+  //         "base-100": "#fcfcfc",
 
-          info: "#00efff",
+  //         info: "#00efff",
 
-          success: "#00a66b",
+  //         success: "#00a66b",
 
-          warning: "#f44100",
+  //         warning: "#f44100",
 
-          error: "#ff0068",
-        },
-      },
-    ],
-  },
+  //         error: "#ff0068",
+  //       },
+  //     },
+  //   ],
+  // },
 };
